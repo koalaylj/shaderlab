@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/Culling Inside" {
+﻿Shader "koala/surface/06 Culling Inside" {
     Properties {
         _Color ("Main Color", Color) = (1,1,1,0)
         _SpecColor ("Spec Color", Color) = (1,1,1,1)

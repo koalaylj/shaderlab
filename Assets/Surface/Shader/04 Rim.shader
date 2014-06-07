@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/Rim" {
+﻿Shader "koala/surface/04 Rim" {
     Properties {
       _MainTex ("Texture", 2D) = "white" {}
       _BumpMap ("Bumpmap", 2D) = "bump" {}

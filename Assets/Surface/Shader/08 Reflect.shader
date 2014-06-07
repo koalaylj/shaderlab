@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/WorldRefl" {
+﻿Shader "koala/surface/08 WorldRefl" {
     Properties {
       _MainTex ("Texture", 2D) = "white" {}
       _Cube ("Cubemap", CUBE) = "" {}

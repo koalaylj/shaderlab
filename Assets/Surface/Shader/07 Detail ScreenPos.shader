@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/ScreenPos" {
+﻿Shader "koala/surface/07 ScreenPos" {
     Properties {
       _MainTex ("Texture", 2D) = "white" {}
       _Detail ("Detail", 2D) = "gray" {}

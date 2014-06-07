@@ -1,4 +1,4 @@
-Shader "koala/cgcookie/ 1_basic" {
+Shader "koala/vf/01 basic" {
 	Properties {
 		_Color ("Color", Color) = (1.0,1.0,1.0,1.0)
 	}

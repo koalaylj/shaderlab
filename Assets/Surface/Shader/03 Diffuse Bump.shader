@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/Diffuse Bump" {
+﻿Shader "koala/surface/03 Diffuse Bump" {
     Properties {
       _MainTex ("Texture", 2D) = "white" {}
       _BumpMap ("Bumpmap", 2D) = "bump" {}

@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/Diffuse Texture" {
+﻿Shader "koala/surface/02 Diffuse Texture" {
     Properties {
       _MainTex ("Texture", 2D) = "white" {}
     }

@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/Diffuse Simple" {
+﻿Shader "koala/surface/01 Diffuse Simple" {
 SubShader {
       Tags { "RenderType" = "Opaque" }
       CGPROGRAM

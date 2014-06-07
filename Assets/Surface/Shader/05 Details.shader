@@ -1,4 +1,4 @@
-﻿Shader "koala/surface/Detail" {
+﻿Shader "koala/surface/05 Detail" {
     Properties {
       _MainTex ("Texture", 2D) = "white" {}
       _BumpMap ("Bumpmap", 2D) = "bump" {}

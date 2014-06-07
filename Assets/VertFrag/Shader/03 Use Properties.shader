@@ -1,4 +1,4 @@
-﻿Shader "koala/vf/02 Use Propertie" {
+﻿Shader "koala/vf/03 Use Propertie" {
 Properties {
 _Color ("Main Color", Color) = (1,1,1,0.5)
 _MainTex ("Texture", 2D) = "white" { }
