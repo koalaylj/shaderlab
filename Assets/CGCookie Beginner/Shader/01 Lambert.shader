@@ -1,4 +1,4 @@
-﻿Shader "koala/vf/03 - Lambert" {
+﻿Shader "koala/cgcookie/01 - Lambert" {
 	Properties {
 		_Color ("Color", Color) = (1.0,1.0,1.0,1.0)
 	}
