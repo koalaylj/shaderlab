@@ -26,8 +26,8 @@
             vertexOutput output;
  
             output.pos =  mul(UNITY_MATRIX_MVP, input.vertex);
-            output.col = input.texcoord; // set the output color
-            //output.col = float4(input.texcoord.x, 0.0, 0.0, 1.0);
+            //output.col = input.texcoord; // set the output color
+            output.col = float4(input.texcoord.x, 0.0, 0.0, 1.0);
             //output.col = float4((input.normal + float3(1.0, 1.0, 1.0)) / 2.0, 1.0);
             //output.col = input.texcoord - float4(1.5, 2.3, 1.1, 1.0);
             //output.col = radians(input.texcoord);
